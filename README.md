@@ -1,15 +1,12 @@
-# Sample Hardhat Project
+# Hardhat Template
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A repo as template to easily test, develop and compile Solidity smart contracts. This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
+Use NPM instead of Yarn to install dependencies:
 ```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+npm i
 ```
 
-Personal note: install dependencies with npm. it wont work with yarn.
+```
+yarn start
+```
