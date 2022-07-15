@@ -1,0 +1,22 @@
+{
+	"flow.useNPMPackagedFlow": true,
+	"javascript.validate.enable": false,
+	"editor.codeActionsOnSave": {
+	  "source.fixAll.eslint": true
+	},
+	"eslint.validate": [
+	  "javascript",
+	  "typescript",
+	],
+	"launch": {
+	  "configurations": [],
+	  "compounds": []
+  },
+"editor.dragAndDrop": false,
+"javascript.preferences.importModuleSpecifierEnding": "minimal",
+"typescript.preferences.importModuleSpecifierEnding": "minimal",
+"cSpell.words": [
+	"morden",
+	"POLYGONSCAN"
+],
+  }
